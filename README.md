@@ -21,7 +21,7 @@ Hi, I'm Srusti <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 ## I am Electrical Engineer turned in ML/AI Enthusiast
 
 
-- 💻 I am currently studying in University of Texas, Arlington 
+- 💻 I am currently studying M.S in Business Analytics at University of Texas, Arlington 
 - 📚 My current focus as a pasionate tech enthusiast who loves to solves problems
 - 🤝 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Build up a dashing portfolio
